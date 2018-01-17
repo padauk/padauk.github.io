@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-01-23T04:04:42.000Z</updated>
+  <updated>2018-01-17T03:42:17.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,11 +16,156 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>又是perf</title>
+    <link href="http://yoursite.com/2017/03/05/%E5%8F%88%E6%98%AFperf/"/>
+    <id>http://yoursite.com/2017/03/05/又是perf/</id>
+    <published>2017-03-06T04:35:23.000Z</published>
+    <updated>2018-01-17T03:42:17.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近又是半年一次的perf时期，然后又赶上组里的一个小hackathon，写的文档也差不多了，TL也要修产假去了，这一周似乎除了好好写写perf没有太麻烦的事情。</p>
+<p>记得半年前第一次写perf有些不习惯，不知道怎样把普通的事写得厉害一些。现在似乎能好一点，也可以不吝于夸自己。但之前两个季度，也没做一个完整的project，因此也没什么特别突出好写的。</p>
+<p>LG叫我直接要求promote，但我还是觉得自己表现不足，回头看看没什么拿得出手的project。然后他就灌输我一些想法，比如，很多人都觉得自己比较弱，但其实是很多中国人的通病，等等。之前有一次跟他讨论，有点脸红脖子粗的样子。但至少感觉在他的影响下有所进步，所以打算perf review的时候就跟manager提想要下次promote，让他看着给活干吧。说起自己的manager，有时候觉得不是太靠谱。一个是他是第一次当manager，他对技术很懂，但在对人的管理上似乎不是太成熟。首先，他经常skip我的one-to-one，有时候主动找他，他又忘了set up schedule。可能主要还是我做的事情不够紧要，让他不够关注。这个时候似乎就要自己更加主动了。另外，他会在会上讨论一些action item，但似乎并没有落实，下一次可能还是讨论老问题。</p>
+<p>看到一个promote经验分享的note，并有请教另一个manager，感觉以下几点可以进行尝试：</p>
+<ul>
+<li>提前一年准备，跟manager说要promote（如果manager还是不靠谱考虑转组）</li>
+<li>多写文档</li>
+<li>完成quartly的project</li>
+<li>了解L4的要求</li>
+<li>skip level的one-to-one，可以是monthly的，会前准备好</li>
+<li>平时多积累这段时间做了什么的note</li>
+<li>提前写perf</li>
+</ul>
+<p>其实还是一场比较艰难的行为啊。真的很想最晚明年这个时候promote。<br>继续努力。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近又是半年一次的perf时期，然后又赶上组里的一个小hackathon，写的文档也差不多了，TL也要修产假去了，这一周似乎除了好好写写perf没有太麻烦的事情。&lt;/p&gt;
+&lt;p&gt;记得半年前第一次写perf有些不习惯，不知道怎样把普通的事写得厉害一些。现在似乎能好一点，也可以
+    
+    </summary>
+    
+      <category term="工作相关" scheme="http://yoursite.com/categories/%E5%B7%A5%E4%BD%9C%E7%9B%B8%E5%85%B3/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>长周末</title>
+    <link href="http://yoursite.com/2017/02/19/%E9%95%BF%E5%91%A8%E6%9C%AB/"/>
+    <id>http://yoursite.com/2017/02/19/长周末/</id>
+    <published>2017-02-20T06:17:43.000Z</published>
+    <updated>2018-01-17T03:40:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>明天不用上班，是president day，真是让人开心，所以我的情绪低落估计可以延长到明天。其实我知道，情绪低落的主要原因是目前的事情没搞出来，manager已经两次委婉提醒，最好等TL放假前把Design弄好，改好。我觉得我知道要怎么弄，但要有条理又简洁地呈现出来似乎有些困难。而且经常在某个地方想得太细，想看看到时code怎么写，然后就又发现一堆问题。然而，虽然我们昨天和前天只出去了一小会，lg大部分时间都在努力改他的design，我却啥也没干。算了，我不后悔，既然浪费时间让自己爽了，就该对自己的行为负责。这怎么听着有点破罐子破摔的感觉。总之，看明天的吧。</p>
+<p>刚才把电影第三种爱情看了。之前看过小说，只记得最后不是大结局，那妹妹死了，结果那一对真就不可能在一起了，挺惋惜的。电影的情节也基本一样，就是套上了高颜值的男女主。以前不觉得刘亦菲好看，金粉世家的时候总觉得她的脸像被打肿，不过人家那时候应该是baby fat。后来的一些古装造型在我看来，还是稚嫩了一些，更多的是小家碧玉，而我更喜欢大家闺秀一点，比如李若彤演的小龙女。不过这部电影里的扮相还是相当干练轻熟，感觉挺不错的，可惜大部分的装扮都是黑色套装加白衬衫，有点单调。不过把头发往上梳，露出精致的脸庞还是很漂亮的。<br><img src="https://img3.doubanio.com/view/photo/photo/public/p2264323671.jpg" alt=""></p>
+<p>感觉对这种爱情故事也有些词穷了。可能是年纪大了吧，也可能是本身就不是个浪漫的人，或者只是比较现实，觉得多关注感情，还不如多想想怎么升职赚钱（然而在后者上我更加后知后觉，没有动力可言）。况且又是已婚妇女，生活也早已是平常得不能再平常，很羡慕那些还有故事可以讲述的朋友们。虽然我也很想说曾经我也是个有故事的女同学，但有些时候，感情可以让人很快乐，也同时可以让人很纠结很难受。所以现在虽然平淡，但也挺好的。只是要记住，女人无论是不是被爱，都要好好爱自己！</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;明天不用上班，是president day，真是让人开心，所以我的情绪低落估计可以延长到明天。其实我知道，情绪低落的主要原因是目前的事情没搞出来，manager已经两次委婉提醒，最好等TL放假前把Design弄好，改好。我觉得我知道要怎么弄，但要有条理又简洁地呈现出来似乎有
+    
+    </summary>
+    
+      <category term="生活" scheme="http://yoursite.com/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Meditation</title>
+    <link href="http://yoursite.com/2017/02/12/meditation/"/>
+    <id>http://yoursite.com/2017/02/12/meditation/</id>
+    <published>2017-02-13T03:20:44.000Z</published>
+    <updated>2018-01-17T03:43:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近重拾meditation，跟随<a href="https://www.headspace.com/" target="_blank" rel="external">headspace</a>的free 10 day foundation course，做了几天。感觉这软件还挺好用的，会有生动的animation，还会有一些讲解，作为入门确实很不错，但Subscribe好像有点贵。</p>
+<p>最初听说meditation是自控力那本书，说是做meditation可以锻炼专注力，提高效率。开始上班后，公司有人组织每天2点的25分钟meditation，同时组里有个同事也是meditation的爱好者，他已经坚持好几年了，他也给了我很多建议和指导，还挺有用的。他觉得meditation对每个人的作用都不大相同，对他来说，最有用的是能控制他的脾气，他说他以前是一个相当暴躁的人，但现在已经好很多了。我们组也有其他人做medidatation，比如推荐我那个app的印度同事，他也是做了好多年，但因为他现在是manager，经常各种事情各种会，不能完全保证2点就可以参加公司的session，所以他现在更多的是在自己家里做。我问过他，如果脑袋里胡思乱想怎么办，他说let it go。但可惜的是几个月前，第一个同事去别的公司了，组里面就没有一个大声号召大家去medidate的人，然后我最近事情也多起来，就一直没去了。前几天突然想到这个安装了很久但还没用过的软件，尝试了一下，似乎可以试试坚持10分钟左右的medidation。</p>
+<p>其实medidation更像是给大脑做锻炼的一种方式，有人在网上说，medidate使他能在同时进行好几项工作时，随时切换不至于一下子搞不清楚之前做到哪。而这种锻炼，通过其他方式也是可以的，比如运动。每个人有每个人合适的方式，还是看个人喜好吧。在meditation的时候，可能我们会发现脑海里有各种思绪，有种乱成麻的感觉，但medidate不是完全克制自己不去想这些，而更像一个旁观者去坦然接受它们。像那个app里的比喻一样，思绪就像车辆，来往于复杂的交通线路，而我们要做的就是确保来往的思绪顺利通行，可能它们会不受控制撞车或是堵塞，但只要我们淡定的成为旁观的一员，它们就会按照它们自己的规迹前进。</p>
+<p>要有效地进行medidate, 最好每天选差不多的时间地点，让medidate成为每天的一部分。所以我决定每天早上醒来可以先medidate 10分钟。说实话，公司的25分钟对我有点久。而且可能是我还坚持得不够，没有什么切实的感受。一切贵在坚持啊，努力试试，看看之后会不会有不一样的感受。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近重拾meditation，跟随&lt;a href=&quot;https://www.headspace.com/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;headspace&lt;/a&gt;的free 10 day foundation course，做了几天。感觉这
+    
+    </summary>
+    
+      <category term="杂想" scheme="http://yoursite.com/categories/%E6%9D%82%E6%83%B3/"/>
+    
+    
+      <category term="meditation" scheme="http://yoursite.com/tags/meditation/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>谈效率</title>
+    <link href="http://yoursite.com/2017/02/05/%E8%B0%88%E6%95%88%E7%8E%87/"/>
+    <id>http://yoursite.com/2017/02/05/谈效率/</id>
+    <published>2017-02-06T00:48:58.000Z</published>
+    <updated>2018-01-17T03:42:47.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>写这个并不是我有什么好的改进效率的方法，而是自己这方面实在做得比较糟糕。尤其是在一些自己不大擅长的事情上。比如周一的面试feedback我就断断续续写了2天。比如上一次review，有人说应该给自己定一段时间，在这个时间内就把事情做好，但我依然是在最后时刻提交。又比如最近的playbook，人家似乎一会就搞定了，但我花了有好几个小时吧。似乎天生不是一个可以专注于写什么东西的人。要改变要改变。所以，虽然去面试还挺烦的，我就当是给自己锻炼；虽然只有廖廖一次的oncall经历，我也主动要求写playbook。这么想想，我还是有努力改变自我的。</p>
+<p>之前用过好几个帮助专注的应用，比如<a href="https://www.forestapp.cc/en/" target="_blank" rel="external">forest</a>, <a href="http://idothing.com/" target="_blank" rel="external">种子习惯</a>，<a href="http://productiveapp.io/" target="_blank" rel="external">productive</a>，还有一个可以记录每天时间都花哪了的应用。但说实话，并没有什么软用。其实我专注25分钟没有问题，但碰到有点难有点麻烦的事情，我容易把它拖到最后去做。比如每天回家，想着先放松放松，在网上晃到10点，然后自我安慰地干一会活。比如上班时候，卡住了，就去做别的简单的事，告诉自己回家再继续做。然而，难的麻烦的事，往往是比较重要的事。这便成为了另一个大问题，即如何分清主次。</p>
+<p>总结一下希望自己能努力做到的部分：</p>
+<ul>
+<li>努力制订短期的计划，并尽量完成。比如回家的路上可以想想晚上几个小时如何安排，可以休息一些时候，但要给自己一个期限，之后要马上做些有意义的事。</li>
+<li>早上上班的时候想想要做些什么，把该完成的事情尽量做完，下班后尽量休息，运动。</li>
+<li>工作的时候，分清主次。麻烦的事情，或是不想着手去做的事，不要给自己一拖再拖的借口。</li>
+<li>简单的事情不要花太多时间，比如写email，反复考虑该用什么词并没有什么意义。</li>
+</ul>
+<p>目前想到这到多，看看之后怎样。其实，最最核心的，就是放下手下没有意义的事情，马上，立刻，赶紧做该做的事。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;写这个并不是我有什么好的改进效率的方法，而是自己这方面实在做得比较糟糕。尤其是在一些自己不大擅长的事情上。比如周一的面试feedback我就断断续续写了2天。比如上一次review，有人说应该给自己定一段时间，在这个时间内就把事情做好，但我依然是在最后时刻提交。又比如最近的
+    
+    </summary>
+    
+      <category term="杂想" scheme="http://yoursite.com/categories/%E6%9D%82%E6%83%B3/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>写文档</title>
+    <link href="http://yoursite.com/2017/01/29/%E5%86%99%E6%96%87%E6%A1%A3/"/>
+    <id>http://yoursite.com/2017/01/29/写文档/</id>
+    <published>2017-01-30T01:17:51.000Z</published>
+    <updated>2018-01-17T03:42:30.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近在写一个Design doc，只是某个大问题下的第一个小阶段的一个API的小变化，然后我已经写了好多天了。一边继续学点相关的东西，一边试验一下API怎么改，一会再看看之前他们的讨论，一会看看别人的doc怎么写，等等，其实是件比较痛苦的事情。闷头搬砖似乎要简单很多，当然要确保搬的方向是正确的。有一回，别人给我一个bug，然后我搞完了，然后manager说这个feature有问题，不make sense，然后我就相当于白写了。所以写好Doc订好方案还是很重要的。我目前这个事情，先是TL写了比较详细的design，我吭哧吭哧想也不用想按一条条进行，然后发现原来不能直接这么来。本来说，这事很重要，原来的方式之后不支持，要尽快搞定，然后讨论来讨论去，又说原来的方式还可以继续用，然后做不做这件事就没这么要紧了。总之，问题比较复杂，但也没那么要紧没有人push，使得我也没太大压力，然后就一直慢慢弄着。但其实这样不大好，document很重要。</p>
+<ul>
+<li>某妹子说，老板说写了doc，对performance review有帮助</li>
+<li>老板说，doc也是另一种思考练习方式</li>
+<li>某人说，对照doc上一条条进行讨论，one-to-one才有意义</li>
+</ul>
+<p>总之，赶紧写吧。</p>
+<p>每次写feedback，review，desgin这种doc, 总是让人挺痛苦的，可能也有一部分英文的关系。但主要可能觉得这些东西不容易让人一下子看出成果，似乎不那么重要，但其实这些doc是指导思想。而且我也应该多多记录，习惯思考和分享。还有一部分原因可能是怕自己写得太烂，别人会judge，但或许别人并没有那么在意。相反的，又担心自己做的东西太微不足道，没人理会。其实这也正常，毕竟还只是处于入门阶段，像上一次写的doc，憋了好几天，也没什么人comment，虽然开了个小会讨论，但他们应该也没好好看吧。那我到底是期望别人看呢还是不看呢？主要还是自己的心态。</p>
+<p>明天又是新的一周，每周的情绪最高点是周五，最低点是周日，也不是说自己有多讨厌上班，就是想着还有很多东西要学，还有很多事情要处理，就会有些烦躁。周末看了好多集寄生兽动画，挺好看的，估计睡前一两小时会弄一点工作上的事，自我安慰一下。要努力提高效率啊，尽量在上班时间把事情处理掉，不要想着回家后加班，周末加班，不现实，真的。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近在写一个Design doc，只是某个大问题下的第一个小阶段的一个API的小变化，然后我已经写了好多天了。一边继续学点相关的东西，一边试验一下API怎么改，一会再看看之前他们的讨论，一会看看别人的doc怎么写，等等，其实是件比较痛苦的事情。闷头搬砖似乎要简单很多，当然要
+    
+    </summary>
+    
+      <category term="工作相关" scheme="http://yoursite.com/categories/%E5%B7%A5%E4%BD%9C%E7%9B%B8%E5%85%B3/"/>
+    
+    
+      <category term="工作" scheme="http://yoursite.com/tags/%E5%B7%A5%E4%BD%9C/"/>
+    
+  </entry>
+  
+  <entry>
     <title>学习面试</title>
     <link href="http://yoursite.com/2017/01/22/%E5%AD%A6%E4%B9%A0%E9%9D%A2%E8%AF%95/"/>
     <id>http://yoursite.com/2017/01/22/学习面试/</id>
     <published>2017-01-23T02:34:05.000Z</published>
-    <updated>2017-01-23T04:04:42.000Z</updated>
+    <updated>2018-01-17T03:41:55.000Z</updated>
     
     <content type="html"><![CDATA[<p>最近下了一个叫Productive habits &amp; daily goals tracker的软件，类似于way of life, balanced等，可以添加各种习惯，然后打卡。刚用没几天，似乎还不错。其中我的一个schedule就是每周做个小结。希望以工作方面为主，让自己能定时思考，并有所输出。</p>
 <p>这一周一件主要的事情就是进行了reverse shadow interview，并且和observer完成了post-interview sheet，这样就意味着我可以正式开始interview别人了。</p>
@@ -48,7 +193,7 @@
     
     </summary>
     
-      <category term="工作小结" scheme="http://yoursite.com/categories/%E5%B7%A5%E4%BD%9C%E5%B0%8F%E7%BB%93/"/>
+      <category term="工作相关" scheme="http://yoursite.com/categories/%E5%B7%A5%E4%BD%9C%E7%9B%B8%E5%85%B3/"/>
     
     
       <category term="面试" scheme="http://yoursite.com/tags/%E9%9D%A2%E8%AF%95/"/>
